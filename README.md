@@ -2,7 +2,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There! 👋 , I'm Abdullah Kamal
+        <samp>&gt; Hey There! 👋 , I'm Zoirsho
         </samp>
 </h3>
 
@@ -16,33 +16,11 @@
 </p>
 
 <p align="center">
- <a href="https://ak4m410x01.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ak4m410x01"/>
+ <a href="mailto:redkeydead@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RedkeyD"/>
  </a>
- <a href="mailto:abdullah.kamal0x01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ak4m410x01"/>
- </a>
- <a href="mailto:abdullah.kamal0x01@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="ak4m410x01"/>
- </a>
-  <a href="https://linkedin.com/in/ak4m410x01" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ak4m410x01"/>
- </a>
-   <a href="https://t.me/ak4m410x01" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ak4m410x01"/>
- </a>
-   <a href="http://wa.me/201147301642" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ak4m410x01"/>
- </a>
- <a href="https://leetcode.com/ak4m410x01/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ak4m410x01"/>
- </a>
- <a href="https://codeforces.com/profile/ak4m410x01" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ak4m410x01"/>
- </a>
- <a href="https://www.hackerrank.com/profile/ak4m410x01" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ak4m410x01"/>
- </a>
+   <a href="https://t.me/WhatIsHappening3" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RedkeyD"/>
 </p>
 <br />
 <p align="center"> 
@@ -168,8 +146,8 @@
   <br/>
 </a>
 
-![Abdullah Kamal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ak4m410x01&custom_title=Abdullah%20Kamal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![RedkeyD's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedkeyD&custom_title=Abdullah%20Kamal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ak4m410x01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RedkeyD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
