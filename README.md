@@ -1,13 +1,12 @@
-<p>Hey there, I'm Zoirsho, you can contact me: 
-  <a href="mailto:redkeydead@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RedkeyD"/>
-  </a>
-  <a href="https://t.me/WhatIsHappening3" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RedkeyD"/>
-  </a>
+<h3>Hey there, I'm Zoirsho, you can contact me:</h3>
+<p align="center">
+<a href="mailto:redkeydead@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RedkeyD"/>
+</a>
+<a href="https://t.me/WhatIsHappening3" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="RedkeyD"/>
+</a>
 </p>
-
-
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ak4m410x01&label=Profile%20views&color=0e75b6&style=flat" alt="Abdel-Rahman Saied" /> 
