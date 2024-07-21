@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/ak4m410x01">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ak4m410x01&theme=radical" alt="Abdullah Kamal's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RedkeyD&theme=radical" alt="RedKey's GitHub streak"/>
   </a>
 </p>
 
