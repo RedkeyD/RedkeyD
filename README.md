@@ -1,4 +1,3 @@
-<h3>Hey there, I'm Zoirsho, you can contact me:</h3>
 <p align="center">
 <a href="mailto:redkeydead@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="RedkeyD"/>
